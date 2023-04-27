@@ -7,7 +7,7 @@
 
 int main(void) 
 { 
-  int n,i=1;
+  int n,i=1;   //n 초기화 안한 이유: 스캔 받을 거니까
   
   printf("출력하고 싶은 단:");
   scanf("%d",&n);
