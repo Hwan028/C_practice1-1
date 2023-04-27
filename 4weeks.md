@@ -59,7 +59,7 @@ printf("%d", result);
 return 0; 
 }
 
-```c
+
 ```c
 #include <stdio.h>
 
