@@ -23,6 +23,21 @@ int main(void)
 ```c
 #include <stdio.h>
 
+
+  int main(){
+for(int i=5;i>0;i--)
+{
+    for(int j=0;j<=5-i;j++)
+    {
+	printf("*");
+    }
+    printf("\n");
+}
+  }   
+  
+```c
+#include <stdio.h>
+
 int main() {
     for(int i=0;i<=5;i++)
       {
